@@ -28,7 +28,7 @@
 * Here for now
 
 # When?
-* Always 5 miuntes ago
+* Always 5 minutes ago
 
 # But that's Anarchy?!
 * NAP or GTFO
